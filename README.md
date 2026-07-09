@@ -1,6 +1,7 @@
 ## Hello, I am Edidiong 😁️
 
 Mechanical & Mechatronics Engineer
+
 Data Scientist | AI & Machine Learning Enthusiast 
 
 I am passionate about building intelligent engineernig systems. 
